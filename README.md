@@ -2,9 +2,13 @@
 
 Welcome to the wonderful world of tic-tac-toe. For this assignment, I coded a C++ implementation of the classic pen-and-paper game Tic-Tac-Toe. Given the simple implementation, a keyboard is required, but I'll go into that more in Materials. 
 
+# Materials
+
 You'll need a keyboard to play. An internet connection is also required to install, but not to play. Enjoy your Tic-Tac-Toe completely DRM free!
 
 *This has only been tested on Ubuntu Linux. If you are trying on any other platform, that's uncharted territory and you may run into issues that I have not encountered.*
+
+# Installation
 
 This will be from the perspective of Linux OS (Pop! OS).
 
