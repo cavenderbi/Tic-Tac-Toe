@@ -24,6 +24,8 @@ To run the game, type ./Tic-Tac-Toe. If this is your first time running the game
 
 Have fun!
 
+# How to Play
+
 Assuming the game has already been installed, all you need is a friend. 
 
 The board has been split into X and Y coordinates ranging from 0 - 2. This is displayed which is which along the top and left of the board. Select a row and column and place your letter. Press enter to confirm your selection. 
