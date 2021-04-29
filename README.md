@@ -39,7 +39,7 @@ No. No additional code or compilation is needed to get it to work. Currently it 
 
 *Why Linux?*
 
-~~Why Windows?~~ Because I like Linux and dealing with the Windows terminal is a pain in my rear.
+Because I like Linux and dealing with the Windows terminal is a pain in my rear.
 
 *I have a different question. Can I bug you about it?*
 
